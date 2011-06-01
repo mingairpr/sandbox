@@ -1,0 +1,2 @@
+class PrRep < ActiveRecord::Base
+end
